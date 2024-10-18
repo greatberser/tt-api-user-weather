@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Tobias", "last": "Hansen" },
+      "location": {
+        "street": { "number": 9226, "name": "Gammel Skolevej" },
+        "city": "Randers Nø",
+        "state": "Hovedstaden",
+        "country": "Denmark",
+        "postcode": 44822,
+        "coordinates": { "latitude": "-46.7527", "longitude": "-49.8970" },
+        "timezone": { "offset": "+3:30", "description": "Tehran" }
+      },
+      "email": "tobias.hansen@example.com",
+      "login": {
+        "uuid": "e29e3a26-54df-4b1e-84e4-2a3dbc714b9b",
+        "username": "tinyfrog259",
+        "password": "dingle",
+        "salt": "vr10Th6G",
+        "md5": "b5ba113a14088cf07dd0baa772c2ded6",
+        "sha1": "aa0e91bdb2e13ef3a8adba4472fb815ea18402d5",
+        "sha256": "43f79388327a6f9d085348f710e6fd635cd58f41a0eb2453473df5a1e48377e2"
+      },
+      "dob": { "date": "1981-07-06T04:08:01.747Z", "age": 43 },
+      "registered": { "date": "2007-02-17T09:12:08.913Z", "age": 17 },
+      "phone": "67412667",
+      "cell": "63787569",
+      "id": { "name": "CPR", "value": "050781-4861" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+      },
+      "nat": "DK"
+    }
+  ],
+  "info": {
+    "seed": "887a808b385d0f24",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
